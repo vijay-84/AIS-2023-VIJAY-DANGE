@@ -1,0 +1,12 @@
+h1 {
+    background-color: rgb(92, 203, 145);
+    color: white;
+    font-size:40px;
+    text-align: center;
+    padding: 80px;
+    height:100;
+    }
+
+label {
+        font-size: 22px;
+    }
